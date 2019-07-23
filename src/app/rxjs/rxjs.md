@@ -8,4 +8,5 @@ Subscription: represents the execution of an Observable, is primarily useful for
 Operators: are pure functions that enable a functional programming style of dealing with collections with operations like map, filter, concat, reduce, etc.
 操作符: 是允许使用函数式编程风格处理集合的纯函数们，比如map，filter，concat，reduce。
 Subject: is the equivalent to an EventEmitter, and the only way of multicasting a value or event to multiple Observers.
+A Subject is like an Observable, but can multicast to many Observers. Subjects are like EventEmitters: they maintain a registry of many listeners.
 观察者模式
