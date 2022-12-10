@@ -26,7 +26,7 @@
     "@angular/router": "~8.1.1",
     "@nguniversal/express-engine": "^8.1.1",
     "@nguniversal/module-map-ngfactory-loader": "8.1.1",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "mobx-angular": "^3.0.1",
     "rxjs": "~6.4.0",
     "tslib": "^1.9.0",
